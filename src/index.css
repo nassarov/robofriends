@@ -5,9 +5,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: rgb(24,15,179);
+background: linear-gradient(201deg, rgba(24,15,179,0.9249824929971989) 0%, rgba(9,137,192,1) 18%, rgba(7,157,194,1) 33%, rgba(6,162,195,1) 45%, rgba(0,212,255,1) 100%);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
